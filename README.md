@@ -61,8 +61,8 @@ An interactive dashboard is built using Plotly Dash (`Dash/app.py`). It visualiz
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Anass422/IBM-Applied-Data-Science-Capstone-Project.git
-   cd IBM-Applied-Data-Science-Capstone-Project
+   git clone https://github.com/Anass422/IBM_Applied_Data_Science_Capstone_Project.git
+   cd IBM_Applied_Data_Science_Capstone_Project
    ```
 
 2. **Install dependencies:**
