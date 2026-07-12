@@ -37,8 +37,8 @@ This repository contains the final capstone project for the IBM Data Science Pro
 │   ├── app.py                # Dash dashboard app
 │   ├── requirements.txt      # Dashboard dependencies
 │   └── spacex_launch_dash.csv
-├── Elghazoui-Anass-Assignment.pdf
-├── Elghazoui-Anass-Assignment.pptx
+├── Data Science Capstone Project Report.pdf
+├── Data Science Capstone Project Report.pptx
 └── README.md
 ```
 
